@@ -50,4 +50,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to add more sections or details to the README as needed for your project.
